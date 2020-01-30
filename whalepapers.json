@@ -2,8 +2,6 @@
      "Wallpapers":
 [
 
-
-
 {
 		"name": "209",
 		"author": "iambavith",
@@ -18,6 +16,16 @@
 		"name": "208",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/248.png",
+                "downloadable": false,
+                "collections": "AMOLED"
+	
+	
+	},
+
+{
+		"name": "207",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/247.png",
                 "downloadable": false,
                 "collections": "AMOLED"
 	
