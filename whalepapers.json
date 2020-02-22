@@ -3,10 +3,40 @@
 [
 
 {
+		"name": "278",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/318.png",
+                "downloadable": false,
+                "collections": "MINIMAL"
+	
+	
+	},
+
+{
+		"name": "277",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/317.png",
+                "downloadable": false,
+                "collections": "MINIMAL"
+	
+	
+	},
+
+{
+		"name": "276",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/316.png",
+                "downloadable": false,
+                "collections": "MINIMAL"
+	
+	
+	},
+
+{
 		"name": "275",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/315.png",
-                "downloadable": true,
+                "downloadable": false,
                 "collections": "ILLUSTRATION"
 	
 	
@@ -16,7 +46,7 @@
 		"name": "274",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/314.png",
-                "downloadable": true,
+                "downloadable": false,
                 "collections": "ILLUSTRATION"
 	
 	
@@ -26,7 +56,7 @@
 		"name": "273",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/313.png",
-                "downloadable": true,
+                "downloadable": false,
                 "collections": "ILLUSTRATION"
 	
 	
