@@ -1,6 +1,36 @@
 {
      "Wallpapers":
 [
+	
+	{
+		"name": "408",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/408.png",
+                "downloadable": true,
+                "collections": "MINIMAL"
+	
+	
+	},
+	
+	{
+		"name": "407",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/407.png",
+                "downloadable": true,
+                "collections": "MINIMAL"
+	
+	
+	},
+	
+	{
+		"name": "406",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/406.png",
+                "downloadable": true,
+                "collections": "MINIMAL"
+	
+	
+	},
 
 {
 		"name": "405",
